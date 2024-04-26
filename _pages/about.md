@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: 上交极限飞盘社
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -9,17 +9,17 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p>东川路800号</p>
+    <p>上海交通大学</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false# includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+交大飞盘协会，作为一个年轻而有活力的社团，不仅致力于推广飞盘运动，让更多的小伙伴们体验到飞盘的魅力，更在于让大家通过这项运动拥有更加广阔的生活体验，如飞盘一般，飞跃极限。
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+作为飞盘协会，我们拥有交大唯一一支飞盘校队，曾代表学校多次参加中国大学生极限飞盘赛（CUUA）以及各大邀请赛，同时，我们还与华师大飞盘协会共同组成了TwinS飞盘队。
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+上海交通大学飞盘竞技队成立于2018年，5年间已代表交大征战过各类江浙沪地区极限飞盘赛事。起初我们只是一群非常普通的飞盘爱好者，因为对飞盘的热爱聚集在一起，一起打盘，一起训练，一起参加各种大大小小的比赛。随着队员们的努力训练和团队配合的日益默契，终于在2022年1月取得了沪上大学生邀请赛冠军，实现了第一个里程碑。而随着老队员们的逐渐毕业和新队员的积极涌入，飞盘竞技队也逐渐换血为现在的新生代，并于2023年定名为"蛟龙"。
